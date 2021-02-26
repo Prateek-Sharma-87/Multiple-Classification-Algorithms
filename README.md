@@ -1,1 +1,1 @@
-# Loan_Classification_using_Multiple_Classification_Algorithms
+# Loan Classification (whether 'Paid Off' or 'In Collection') is performed using Multiple Classification Algorithms (K Nearest Neighbor(KNN), Decision Tree, Support Vector Machine & Logistic Regression) to find the best algorithm for the specific dataset ustilizing various accuracy evaluation methods (Jaccard Similarity Score, F-score and Log Loss) while tuning the 'Hyperparameters' and visualizing both the data and results via 'Matplotlib' and 'Searborn'
