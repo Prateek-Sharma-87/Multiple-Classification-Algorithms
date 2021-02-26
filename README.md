@@ -2,6 +2,6 @@ Loan Classification (whether 'Paid Off' or 'In Collection') is performed using M
 
 Classification Algorithms Explored: K Nearest Neighbor (KNN), Decision Tree, Support Vector Machine (SVM) and Logistic Regression
 
-Accuracy evaluation methods used: Jaccard Similarity Score, F-score and Log Loss
+Accuracy Evaluation Methods: Jaccard Similarity Score, F-score and Log Loss
 
-Visualization libraries used: 'Matplotlib' and 'Searborn'
+Visualization Libraries: 'Matplotlib' and 'Searborn'
